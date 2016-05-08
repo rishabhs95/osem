@@ -17,5 +17,8 @@ Please refer to our [CONTRIBUTING guide](CONTRIBUTING.md)
 ## How to translate OSEM into your language
 Please refer to our [TRANSLATION guide] (TRANSLATION.md)
 
+## Payment Feature Specifications
+Please refer to our [payment specification guide](SPEC.md) for the [project](https://github.com/openSUSE/osem/issues/969) related details.
+
 ## Contact
 GitHub issues are the primary way for communicating about specific proposed changes to this project. If you have other questions feel free to subscribe to the [opensuse-web@opensuse.org](http://lists.opensuse.org/opensuse-web/) mailinglist, all OSEM contributors are on that list! Additionally you can use #osem channel on freenode IRC.
