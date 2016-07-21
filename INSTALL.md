@@ -48,6 +48,9 @@ There are a couple of environment variables you can set to configure OSEM.
 | OSEM_SMTP_DOMAIN		| opensuse.org			| The HELO domain for the smtp server
 | CLOUDINARY_URL		| *sting*			| Configure your cloudinary.com cloud name and api key/secret
 
+### Payment Gateway Configuration
+Please refer to [PAYMENTS](PAYMENTS.md) documentation file to configure the payment gateway of your choice into the application.
+
 ## Dependencies
 
 ### ImageMagick
